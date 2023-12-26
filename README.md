@@ -22,7 +22,9 @@ Anyway, It's Operation System magic..
 Inter-process communication is a wide way to share data between executables that are loaded in the different memory addresses, they have more than one way, for example:
 
 1 - Shared Memory
+
 2 - Sockets ( yeah you can use sockets )
+
 3 - Named Pipes ( What I have shared today ) 
 
 And not limited to OSX, you can find it In Windows/Android/IOS/Linux, In any operating system.
